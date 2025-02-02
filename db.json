@@ -1,0 +1,54 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "area": "producción",
+      "vehiculo": {
+        "tipo": "automóvil",
+        "placa": "ABC123",
+        "color": "rojo"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Ana Gómez",
+      "area": "finanzas",
+      "vehiculo": {
+        "tipo": "moto",
+        "placa": "XYZ789",
+        "color": "azul"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Rojas",
+      "area": "contabilidad",
+      "vehiculo": {
+        "tipo": "automóvil",
+        "placa": "DEF456",
+        "color": "negro"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "María López",
+      "area": "producción",
+      "vehiculo": {
+        "tipo": "moto",
+        "placa": "GHI789",
+        "color": "verde"
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Luis Castro",
+      "area": "finanzas",
+      "vehiculo": {
+        "tipo": "automóvil",
+        "placa": "JKL012",
+        "color": "blanco"
+      }
+    }
+  ]
+}
